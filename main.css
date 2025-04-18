@@ -1,0 +1,19 @@
+#numberGrid {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.editable-cell {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+    width: 75px;
+    height: 75px;
+    font-size: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+}
